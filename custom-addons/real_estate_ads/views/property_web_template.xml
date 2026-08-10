@@ -1,4 +1,4 @@
-<odoo>
+<!-- <odoo>
     <template id="property_list" name="Properties">
         <t t-call="website.layout">
             <div class="oe_structure">
@@ -24,4 +24,4 @@
             </div>
         </t>
     </template>
-</odoo>
+</odoo> -->
